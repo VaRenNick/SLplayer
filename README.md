@@ -1,4 +1,4 @@
-vlcj-player
+SLplayer
 ===========
  
 More info will be added after initial phase of development completion
