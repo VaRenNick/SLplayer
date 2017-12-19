@@ -1,11 +1,10 @@
 vlcj-player
 ===========
  
+More info will be added after initial phase of development completion
 
 Screenshot
 ----------
-
-![vlcj-player](https://github.com/caprica/vlcj-player/raw/master/doc/vlcj-player.png "vlcj-player")
 
 Features
 --------
@@ -46,8 +45,6 @@ If you execute "mvn install" or "mvn package", you will get a distribution
 package that you can unpack. This will give you the vlcj-player application jar
 and all of the dependencies - you can simply execute `java -jar vlcj-player-1.0.0-SNAPSHOT.jar`
 and the application should start.
-
-On the other hand, just run it from an Eclipse project.
 
 License
 -------
