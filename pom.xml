@@ -104,7 +104,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>by.vr.slplayer.VlcjPlayer</mainClass>
+                            <mainClass>by.vr.slplayer.SLPlayer</mainClass>
                             <addClasspath>true</addClasspath>
                         </manifest>
                     </archive>

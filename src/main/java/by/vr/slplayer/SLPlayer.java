@@ -43,7 +43,7 @@ import by.vr.slplayer.view.messages.NativeLogFrame;
 /**
  * Application entry-point.
  */
-public class VlcjPlayer {
+public class SLPlayer {
 
     private static final NativeStreams nativeStreams;
 
@@ -80,7 +80,7 @@ public class VlcjPlayer {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new VlcjPlayer().start();
+                new SLPlayer().start();
             }
         });
     }
@@ -101,7 +101,7 @@ public class VlcjPlayer {
         }
     }
 
-    public VlcjPlayer() {
+    public SLPlayer() {
         EmbeddedMediaPlayerComponent mediaPlayerComponent = application().mediaPlayerComponent();
 
         mainFrame = new MainFrame();
