@@ -134,7 +134,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>uk.co.caprica.vlcjplayer.VlcjPlayer</mainClass>
+                            <mainClass>by.vr.slplayer.VlcjPlayer</mainClass>
                             <addClasspath>true</addClasspath>
                         </manifest>
                     </archive>
