@@ -1,18 +1,6 @@
 vlcj-player
 ===========
-
-The vlcj-player is a media player application built using vlcj with a Swing
-rich-client user interface. 
-
-The main goal of the project is to provide an extensive demo application 
-showing how to build media players with vlcj, and to include as many features
-of vlcj as possible.
-
-Generally the vlcj-player tries to match the Qt interface of VLC with as many
-of the same features implemented as possible.
-
-However, it is not possible to get a 100% like-for-like implementation since
-LibVLC, used by vlcj, exposes only a sub-set of the total functionality of VLC. 
+ 
 
 Screenshot
 ----------
